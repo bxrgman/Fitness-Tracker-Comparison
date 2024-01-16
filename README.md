@@ -10,7 +10,11 @@ Key Features:
 - Visualize differences in step counts, workout intensity, and more.
 - Gain insights into which device aligns better with your fitness goals.
 
-Data Sources: Fitbit Sense, Apple Watch
+**Data Sources:**
+
+- Fitbit Sense: Fitbit data was collected directly using the Fitbit API, which provides free access to user data.
+- Apple Watch: Apple Watch data was retrieved using a paid third-party app, Health Auto Export, due to limitations in Apple's data access policies.
+
 
 Tools and Technologies: Jupyter Notebook, Pandas, Matplotlib
 
