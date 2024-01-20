@@ -3,10 +3,10 @@ Compare Fitbit Sense &amp; Apple Watch data for insights into your fitness routi
 
 🏋️ Fitness Tracker Data Comparison 📊
 
-Objective: Compare daily activity and workout data between Fitbit Sense and Apple Watch over one week.
+Objective: Compare daily activity and workout data between Fitbit Sense and Apple Watch over three months.
 
 Key Features:
-- Analyze one week's worth of data from two popular fitness trackers.
+- Analyze 90 days' worth of data from two popular fitness trackers.
 - Visualize differences in step counts, workout intensity, and more.
 - Gain insights into which device aligns better with your fitness goals.
 
